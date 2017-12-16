@@ -1,0 +1,11 @@
+{
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrianFlannery/habdep1.git"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.16.2"
+  }
+}
